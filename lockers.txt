@@ -1,0 +1,6 @@
+
+samuel: 1500.00
+daniel: 200.00
+solomon: 700.00
+yared: 550.00
+fuad: 700.00

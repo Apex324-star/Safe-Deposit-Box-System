@@ -1,0 +1,10 @@
+
+User: samuel | Action: deposit | Amount: 500 | Total: 500.00
+User: daniel | Action: deposit | Amount: 300 | Total: 300.00
+User: solomon | Action: deposit | Amount: 900 | Total: 900.00
+User: yared | Action: withdraw | Amount: 0.0 | Total: 0.00
+User: yared | Action: deposit | Amount: 550 | Total: 550.00
+User: solomon | Action: withdraw | Amount: 200 | Total: 700.00
+User: fuad | Action: deposit | Amount: 700 | Total: 700.00
+User: samuel | Action: deposit | Amount: 1000 | Total: 1500.00
+User: daniel | Action: withdraw | Amount: 100.0 | Total: 200.00
